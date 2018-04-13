@@ -423,6 +423,7 @@
     <Content Include="Content\flags\famfamfam-flags.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="images\Y1RzzGZ.gif" />
     <Content Include="js\main.js" />
     <Content Include="Localization\dotNetGitLab\dotNetGitLab-zh-CN.xml" />
     <Content Include="Localization\dotNetGitLab\dotNetGitLab.ja.xml" />
@@ -605,7 +606,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>61814</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
